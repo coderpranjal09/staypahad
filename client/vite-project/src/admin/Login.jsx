@@ -26,7 +26,7 @@ const Login = () => {
     setLoading(true);
     
     try {
-      const response = await axios.post('http://localhost:5000/api/auth/admin/login', credentials);
+      const response = await axios.post('https://staypahad.vercel.app/api/auth/admin/login', credentials);
       
       // Save token to localStorage
       localStorage.setItem('adminToken', response.data.token);

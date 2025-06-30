@@ -35,8 +35,8 @@ const OwnerDashboard = () => {
     const fetchData = async () => {
       try {
         const [homestayRes, bookingsRes] = await Promise.all([
-          fetch(`http://localhost:5000/api/homestays/by-homestayid/${homestayid}`),
-          fetch(`http://localhost:5000/api/booking/property?homestayId=${homestayid}`)
+          fetch(`https://staypahad.vercel.app/api/homestays/by-homestayid/${homestayid}`),
+          fetch(`https://staypahad.vercel.app/api/booking/property?homestayId=${homestayid}`)
         ]);
 
         if (!homestayRes.ok) throw new Error('Failed to fetch homestay data');

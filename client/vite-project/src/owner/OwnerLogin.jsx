@@ -16,7 +16,7 @@ const OwnerLogin = () => {
     setError('');
 
     try {
-      const response = await fetch('http://localhost:5000/api/owner-auth/login', {
+      const response = await fetch('https://staypahad.vercel.app/api/owner-auth/login', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

@@ -178,14 +178,14 @@ const AdminDashboard = () => {
         }
 
         const [homestaysResponse, bookingsResponse] = await Promise.all([
-          axios.get('http://localhost:5000/api/master/homestays', {
+          axios.get('https://staypahad.vercel.app/api/master/homestays', {
             headers: { 
               Authorization: `Bearer ${token}`,
               'Content-Type': 'application/json'
             },
             withCredentials: true
           }),
-          axios.get('http://localhost:5000/api/booking', {
+          axios.get('https://staypahad.vercel.app/api/booking', {
             headers: { 
               Authorization: `Bearer ${token}`,
               'Content-Type': 'application/json'
@@ -238,7 +238,7 @@ const AdminDashboard = () => {
     try {
       const token = localStorage.getItem('adminToken');
       const response = await axios.get(
-        `http://localhost:5000/api/master/homestays/${homestayId}`,
+        `https://staypahad.vercel.app/api/master/homestays/${homestayId}`,
         {
           headers: { 
             Authorization: `Bearer ${token}`,
@@ -294,7 +294,7 @@ const AdminDashboard = () => {
     try {
       const token = localStorage.getItem('adminToken');
       const response = await axios.post(
-        'http://localhost:5000/api/master/homestays', 
+        'https://staypahad.vercel.app/api/master/homestays', 
         {
           ...formData,
           price: Number(formData.price)
@@ -331,7 +331,7 @@ const AdminDashboard = () => {
       try {
         const token = localStorage.getItem('adminToken');
         await axios.delete(
-          `http://localhost:5000/api/master/homestays/${homestayId}`,
+          `https://staypahad.vercel.app/api/master/homestays/${homestayId}`,
           {
             headers: { 
               Authorization: `Bearer ${token}`,
