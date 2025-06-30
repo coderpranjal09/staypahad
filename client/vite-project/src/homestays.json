@@ -1,16 +1,18 @@
 [
   {
-    "id": "hs101",
-    "name": "Mountain View Cottage",
-    "owner": "Rajesh Rawat",
-    "ownerMob": "9876543210",
-    "location": "Mussoorie",
-    "description": "A beautiful cottage with stunning mountain views in the heart of Mussoorie.",
-    "price": 2500,
+    "id": "apnugharmakku01",
+    "name": "Apnu Ghar Homestay",
+    "owner": "Pranjal Maithani",
+    "ownerMob": "8791273578",
+    "location": "Chopta,makku,rudrapraag",
+    "description": "A beautiful cottage with stunning mountain views in the heart of Chopta Valley.",
+    "price": 1500,
     "amenities": ["wifi", "parking", "mountainView", "breakfast"],
     "images": [
-      "https://www.justdial.com/photos/apnu-ghar-home-stay-makku-math-rudraprayag-guest-house-v75yytri3u-pc-403406496-sco-99gizidmwgl",
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noImbA-NR3Fh6cB9mydueAvRTrfB2ul4fe8OxwmVh6UgaTMsm2XmVjAC4S8iLNI0nF68ZtLGUry1E5PZgyOt0v2c7pyR97iN6hi70nkT7EgANlfgi36Es6htViKjjMzBm9z8iaK=s1360-w1360-h1020-rw"
+      "https://lh3.google.com/u/0/d/1CdTPjVz1qekbYPGkVYidgosv0LQUpdYt=w1920-h868-iv1?auditContext=prefetch",
+      "https://lh3.google.com/u/0/d/1jTVIrCZmf0eeQLwx_WjBg0SB7u0-ZNfe=w1920-h868-iv1?auditContext=prefetch",
+      "https://lh3.google.com/u/0/d/1Aqgopv_Oamjf8OE4HqOf_Hla2dCd9XDQ=w1920-h868-iv1?auditContext=prefetch",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nozyaMQig54F1unZ1ZRW9vEqK5BbZ7AFXqRBZBKioYrGf5CRvNupFn4Ym9zGMVWPwG-wtVQXuWz5GoNxQ6QFV3MymCToFAg_muz27aon-NknU5PfdA3cxMgwqHbN43giDigMzX2=s1360-w1360-h1020-rw"
     ]
   },
   {
