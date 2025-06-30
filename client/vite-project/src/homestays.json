@@ -1,0 +1,33 @@
+[
+  {
+    "id": "hs101",
+    "name": "Mountain View Cottage",
+    "owner": "Rajesh Rawat",
+    "ownerMob": "9876543210",
+    "location": "Mussoorie",
+    "description": "A beautiful cottage with stunning mountain views in the heart of Mussoorie.",
+    "price": 2500,
+    "amenities": ["wifi", "parking", "mountainView", "breakfast"],
+    "images": [
+      "https://www.justdial.com/photos/apnu-ghar-home-stay-makku-math-rudraprayag-guest-house-v75yytri3u-pc-403406496-sco-99gizidmwgl",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noImbA-NR3Fh6cB9mydueAvRTrfB2ul4fe8OxwmVh6UgaTMsm2XmVjAC4S8iLNI0nF68ZtLGUry1E5PZgyOt0v2c7pyR97iN6hi70nkT7EgANlfgi36Es6htViKjjMzBm9z8iaK=s1360-w1360-h1020-rw"
+    ]
+  },
+  {
+    "id": "rk01",
+    "name": "Riverside Retreat",
+    "owner": "Priya Negi",
+    "ownerMob": "9876543211",
+    "location": "Rishikesh",
+    "description": "Peaceful stay by the Ganges with easy access to yoga centers.",
+    "price": 1800,
+    "amenities": ["wifi", "parking", "riverView", "yoga"],
+    "images": [
+        "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/room-imgs/202204141615473584-2364572-dcefc8f0be5e11ec881a0a58a9feac02.jpg",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noImbA-NR3Fh6cB9mydueAvRTrfB2ul4fe8OxwmVh6UgaTMsm2XmVjAC4S8iLNI0nF68ZtLGUry1E5PZgyOt0v2c7pyR97iN6hi70nkT7EgANlfgi36Es6htViKjjMzBm9z8iaK=s1360-w1360-h1020-rw",
+      "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/room-imgs/202204141615473584-2364572-dcefc8f0be5e11ec881a0a58a9feac02.jpg",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noImbA-NR3Fh6cB9mydueAvRTrfB2ul4fe8OxwmVh6UgaTMsm2XmVjAC4S8iLNI0nF68ZtLGUry1E5PZgyOt0v2c7pyR97iN6hi70nkT7EgANlfgi36Es6htViKjjMzBm9z8iaK=s1360-w1360-h1020-rw"
+      
+    ]
+  }
+]
