@@ -19,7 +19,7 @@ app.use(cors({
 }));
 app.use(cookieParser()); 
 // Routes
-app.get('/api', (req, res) => {
+app.get('/', (req, res) => {
   res.json({ message: "Backend is working!" });
 });
 app.use('/api/homestays', homestayRoutes);
