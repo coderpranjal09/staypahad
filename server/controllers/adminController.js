@@ -112,11 +112,6 @@ exports.deleteHomestay = async (req, res) => {
       return res.status(404).json({ message: 'Homestay not found' });
     }
 
-    const bookingsExist = await Booking.exists({ homestayId: req.params.id });
-    if (bookingsExist) {
-      return res.status(400).json({ message: 'Cannot delete homestay with existing bookings' });
-    }
-
     await homestay.deleteOne();
     res.json({ message: 'Homestay removed successfully' });
   } catch (err) {
