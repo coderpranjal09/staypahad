@@ -42,7 +42,6 @@ app.use('/api/listing',addHomestay);
 app.use('/api/owner-auth',ownerlogin);
 app.use('/api/auth', authRouter);
 app.use('/api/master',adminRouter);
-app.use('/api/admin',authRouter);
 
 
 // MongoDB connection
