@@ -44,9 +44,17 @@ const SearchResults = () => {
     };
     setSearchParams(searchData);
 
-    let results = homestaysData.filter(homestay => 
-      homestay.location.toLowerCase().includes(searchData.location.toLowerCase())
-    );
+    // Normalize the search location by trimming and converting to lowercase
+    const normalizedSearchLocation = searchData.location.trim().toLowerCase();
+
+    let results = homestaysData.filter(homestay => {
+      // Normalize homestay location for comparison
+      const normalizedHomestayLocation = homestay.location.trim().toLowerCase();
+      
+      // Check if homestay location includes search location (empty string matches all)
+      return normalizedSearchLocation === '' || 
+             normalizedHomestayLocation.includes(normalizedSearchLocation);
+    });
 
     results = results.filter(homestay => 
       homestay.price >= filters.priceRange[0] && 
