@@ -7,8 +7,8 @@
     "ownerMob": "8791273578",
     "location": "Chopta,makku,rudraprayag",
     "description": "A beautiful cottage with stunning mountain views in the heart of Chopta Valley.",
-    "price": 1500,
-    "amenities": ["wifi", "parking", "mountainView", "breakfast"],
+    "price": 1800,
+    "amenities": [ "parking", "mountainView", "breakfast"],
     "images": [
       "https://lh3.google.com/u/0/d/1CdTPjVz1qekbYPGkVYidgosv0LQUpdYt=w1920-h868-iv1?auditContext=prefetch",
       "https://lh3.google.com/u/0/d/1jTVIrCZmf0eeQLwx_WjBg0SB7u0-ZNfe=w1920-h868-iv1?auditContext=prefetch",
@@ -32,6 +32,22 @@
       "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/room-imgs/202204141615473584-2364572-dcefc8f0be5e11ec881a0a58a9feac02.jpg",
       "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noImbA-NR3Fh6cB9mydueAvRTrfB2ul4fe8OxwmVh6UgaTMsm2XmVjAC4S8iLNI0nF68ZtLGUry1E5PZgyOt0v2c7pyR97iN6hi70nkT7EgANlfgi36Es6htViKjjMzBm9z8iaK=s1360-w1360-h1020-rw"
       
+    ]
+  },
+  {
+    "id": "apnugharmakku02",
+    "name": "Shiv Kripa Homestay",
+    "owner": "Lakshmi Devi",
+    "capacity":16,
+    "ownerMob": "9258902271",
+    "location": "Chopta,makku,rudraprayag",
+    "description": "Peaceful stay in Mini switzer Land Chopta",
+    "price": 1800,
+    "amenities": [ "parking", "mountainView", "yoga"],
+    "images": [
+      "https://content3.jdmagicbox.com/v2/comp/rudraprayag/u1/9999p1364.1364.240603151607.s2u1/catalogue/apnu-ghar-home-stay-makku-math-rudraprayag-guest-house-43xld5xgeq.jpg"
+      ,
+        "https://lh3.googleusercontent.com/fife/ALs6j_FtcCYo9iQKM2AToYOCOAQWhSSYoVF9DVx6DQLC2DCu4vKiPEloi3usAvIST7mNt_cQiMJfJZOtRxT7sGU_xp9_levLjeVr-wLYgNg8B_sIXmljdb0S7O0_BOlWVhXR5w-X5qJMyxNgNHwuDhszM-X2Y0GLOnauJoLYPPyzHyBBipDDZ1UwMojv5u2Bvz8RRGk0tCyUHnB2F4gsNKQBK_QTy0Yp7PgF13-ki4Vv-AHdfSAbrMDZ1lKoWghPjOSpzIQWkQNRmPmzcSHDIO0tLGraVP7WycP5tUuVurf8lROUR7UAte7pNxYjOuZueesXrQNzt34LEhoTci6wndVJMR04d6OMnjoajPj-shP5NmSOSr8cIVOMhip3U1FveGFC1tWKanIJdDkoF2nWEga_-2TmCVHkLzAv9O5cV4cLY4XtNcNkymdNRDtlH9-IQYvZzyNC2fF41WM4Y_7qf3BBXsgXNFmJxmPxIAGJMRCl4s2RU0NFdmF8CWVCrIRU7uKHzjiBxNh6apL4niRYhs1twkwUPonLAxuUHQFTXh6BDYGM9CqYw6RgdcdbxIwwEV_iR7nd0v3uai1KfP9qr4KtStj76Dd6Eb3naDNZIL9hYNtMrnJiX_gD_2XTu8Utwrwurz_CApsf8cvJS5NE3osuLsTLRwE_aKemqO3FMvFAexAooBNCtPhjAL0VGKoOs2mb7UB68-e-RcqKA0vj3f-NKOFWzScZKX8kXfTK3PGjlwuPN0boeW4Mifq2WvBHUur24zZL9bVgxLJDohakGQ6ZcNLdBSwil3rMG8ERR5FO0mzS3v31YRuTDJyWikjOnTU-ANaFijOIO26KzUc8mTdWxKYQl9yzoP1Y_nQaMOs-sQJEMlIxmqSQoNYJT6RUKOzVreO0gd8LGKSgoREoxdKij2GqfYH-jKGWCYNbI2mXL4ngTrgz5ZPFoRDIARBG3VABHawidVzQ3-JERFV5rUUNUzHAsrceYIGQTqnAUDAzrZsQziJ-GPpCo1Wxbd1lSaSfZIDjSM8atiUyb7qckWSl16NLCC6PyLhcOnosAajBG04cIgwfsjB86ffgbLXL1VbyvxOWz5ZEmYlWd7H1mjsprAuRmpoBa6boSS2d808Fr0FKBcXAjYjsBP_1dCIJc0IjTyON872NglpaWKJdMqKXGQ58yZVMRhkD0_KxgpifeJfx5D3sz1ELIryGgkRnSTXOrwBn52Q0bCWhN2-tjEDj4KX4QxR1DygI7titLihvM6kx3XEDQGBe_b2rI1IiICkhNhHZ3X6_yttPWrDDcX74eP-HDEvx0opCMuwd88Otbmjzt3CCuAF7eLb1o62TLXDDhwY62cp3PHtAFbl2_hBqpO7zNnsButJyADY1cQzfea1WbrK9VjQDT0dNjV1K-BpNoHHqCr1rnJ_AIRc3mwZ6jyUA8GxmAbXopFMhKd5Qqr5arZL15WQovFwaXLo6UKe-3C8gN9nSpvcNIuVLUI8ghshmvd7FU2sFzlfXaref7U4m_gttylBC8UbHUGWR3sZ4Funa-F27rkjdo6WUM88J_tIt30lqywISS3SCFp1L76DAS3wbNKcBM6trlm-NHirQC-dN5DhFbb7kbKNCi1SgyuJ7HzOFfapZVFmPuZyFmRtmrh7Ig-btlVYnJ7IrRxIK8mtV5LJ7z9gjixxnPlcZktNOkMLz5pChm_qX_co-KnuuaYxeVGKj0pYobEbJEArG5MVaaIhoZv3sfK6FyS8=w1920-h868?auditContext=prefetch"
     ]
   }
 ]
