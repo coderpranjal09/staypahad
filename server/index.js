@@ -34,7 +34,7 @@ app.use(cors({
 app.use(cookieParser()); 
 // Routes
 app.get('/', (req, res) => {
-  res.json({ message: "Backend is working!" });
+  res.json({ message: "server is running ...." });
 });
 app.use('/api/homestays', homestayRoutes);
 app.use('/api/booking',booking);
